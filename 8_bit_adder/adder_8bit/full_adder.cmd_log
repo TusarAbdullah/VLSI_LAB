@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "/home/ise/adder_1bit/full_adder.xst" -ofn "/home/ise/adder_1bit/full_adder.syr" 
+vhdtdtfi -prj adder_1bit -o /home/ise/adder_1bit/full_adder.tfi -module full_adder -template /opt/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work full_adder_1bit.vhd 
+vhdtdtfi -prj adder_1bit -o /home/ise/adder_1bit/full_adder.tfi -module full_adder -template /opt/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work full_adder_1bit.vhd 
+vhdtdtfi -prj adder_1bit -o /home/ise/adder_1bit/full_adder.tfi -module full_adder -template /opt/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work full_adder_1bit.vhd 
+vhdtdtfi -prj adder_1bit -o /home/ise/adder_1bit/full_adder.tfi -module full_adder -template /opt/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work full_adder_1bit.vhd 
